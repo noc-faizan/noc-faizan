@@ -1,10 +1,8 @@
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=150&section=header&text=Muhammad%20Faizan&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
 <div align="center">
 
-# Hey there! I'm Muhammad Faizan 👋
-
-### Future NOC Engineer 🖥️ | Networking | Cyber Security | Pakistan 🇵🇰
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Future+NOC+Engineer+%F0%9F%96%A5%EF%B8%8F;Networking+Enthusiast+%F0%9F%93%A1;Cyber+Security+Student+%F0%9F%94%90;Always+Learning+New+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Future+NOC+Engineer+%F0%9F%96%A5%EF%B8%8F;Networking+Enthusiast+%F0%9F%93%A1;Cyber+Security+Student+%F0%9F%94%90;Always+Learning+New+Things+%F0%9F%9A%80;Uptime+is+Everything+%E2%9C%85)](https://git.io/typing-svg)
 
 </div>
 
@@ -70,6 +68,26 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/noc-faizan/noc-faizan/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🎮 Mario
+
+<div align="center">
+
+![Mario](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/mario.gif)
+
+</div>
+
+---
+
 ## 📜 Certifications (In Progress)
 
 | Certification | Status |
@@ -86,15 +104,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/noc-faizan)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/noc-faizan)
 
- 
-![Snake](https://raw.githubusercontent.com/noc-faizan/noc-faizan/output/github-contribution-grid-snake.svg)
-
 ---
 
 <div align="center">
 
+[![](https://komarev.com/ghpvc/?username=noc-faizan&color=00ff41&style=flat)](https://github.com/noc-faizan)
 
 **"Uptime is everything. I make sure of it. 🖥️"**
 
 </div>
 
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer)
