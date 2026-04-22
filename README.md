@@ -78,16 +78,6 @@
 
 ---
 
-## 🎮 Mario
-
-<div align="center">
-
-![Mario](https://media.giphy.com/media/rqoXCCPMDVCVO/giphy.gif)
-
-</div>
-
----
-
 ## 📜 Certifications (In Progress)
 
 | Certification | Status |
