@@ -86,11 +86,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/noc-faizan)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/noc-faizan)
 
+[![](https://komarev.com/ghpvc/?username=noc-faizan&color=00ff41&style=flat)](https://github.com/noc-faizan)
 ---
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=noc-faizan&color=00ff41&style=flat)](https://github.com/noc-faizan)
 
 **"Uptime is everything. I make sure of it. 🖥️"**
 
