@@ -86,7 +86,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/noc-faizan)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/noc-faizan)
 
-[![](https://komarev.com/ghpvc/?username=noc-faizan&color=00ff41&style=flat)](https://github.com/noc-faizan)
+ 
+![Snake](https://raw.githubusercontent.com/noc-faizan/noc-faizan/output/github-contribution-grid-snake.svg)
+
 ---
 
 <div align="center">
@@ -95,5 +97,4 @@
 **"Uptime is everything. I make sure of it. 🖥️"**
 
 </div>
-![Snake](https://raw.githubusercontent.com/noc-faizan/noc-faizan/output/github-contribution-grid-sna
-![Snake](https://raw.githubusercontent.com/noc-faizan/noc-faizan/output/github-contribution-grid-snake.svg)
+
