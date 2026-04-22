@@ -73,7 +73,6 @@
 <div align="center">
 
 ![Snake](https://raw.githubusercontent.com/noc-faizan/noc-faizan/output/github-contribution-grid-snake.svg)
-![Mario](https://i.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 </div>
 
@@ -83,6 +82,7 @@
 
 <div align="center">
 
+![Mario](https://media.giphy.com/media/rqoXCCPMDVCVO/giphy.gif)
 
 </div>
 
